@@ -30,7 +30,7 @@ Install any prerequisites listed in Requirements section.
 Clone this project to your computer:
 
 ```
-git clone https://github.com/alimac/errbot-dev.git
+git clone https://github.com/rossnz/errbot-dev.git
 ```
 
 Build the `ubuntu/trusty64` box:
